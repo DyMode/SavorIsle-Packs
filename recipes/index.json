@@ -1,0 +1,894 @@
+{
+  "format_version": "savorisle.recipe-resources.v1",
+  "packs": [
+    {
+      "id": "recipes-chinese",
+      "name": "中式家常料理",
+      "category": "中式家常料理",
+      "description": "9道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 9,
+      "file": "packs/chinese-v1.zip",
+      "bytes": 932814,
+      "sha256": "cc4fa8d283308d9a4651e335aaa7ca3908636eb7bf77f23217c6d18252f7fc9d",
+      "contents": [
+        {
+          "id": "recipe-e4f20eaf3e0a900e3f55bae5",
+          "version": 1,
+          "source_url": "https://www.xiachufang.com/recipe/101712023/"
+        },
+        {
+          "id": "recipe-fcdc17b580691ce9981c6992",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/chinese-beef-and-broccoli/"
+        },
+        {
+          "id": "recipe-27217b91577b1303fecfaa51",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/chinese-barbecue-pork-char-siu/"
+        },
+        {
+          "id": "recipe-8c4fb35b31575810f49638b7",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/chinese-beef-with-honey-and-black-pepper-sauce/"
+        },
+        {
+          "id": "recipe-311c2bc1190f675fec20b11c",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/chinese-cashew-chicken/"
+        },
+        {
+          "id": "recipe-c7cc51c6e73330808369ecbc",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/chinese-crispy-pork-belly/"
+        },
+        {
+          "id": "recipe-fcb081875365e3e2c9ccf11f",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/kung-pao-chicken/"
+        },
+        {
+          "id": "recipe-3df3701e58242626283dba47",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/san-choy-bow-chinese-lettuce-wraps/"
+        },
+        {
+          "id": "recipe-db35b5af52772f1bf25ef728",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/sweet-and-sour-pork/"
+        }
+      ]
+    },
+    {
+      "id": "recipes-meat",
+      "name": "西式肉类料理",
+      "category": "西式肉类料理",
+      "description": "12道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 12,
+      "file": "packs/meat-v1.zip",
+      "bytes": 979452,
+      "sha256": "a7c478231e4dd65afc7edc89aad9e65f31fe754357171714830fed9e8f118338",
+      "contents": [
+        {
+          "id": "recipe-03c053d82bf64404439542d5",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/one-pan-piri-piri-chicken-dinner"
+        },
+        {
+          "id": "recipe-06dc7a53dfc62cd24cff1390",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/air-fryer-roast-chicken"
+        },
+        {
+          "id": "recipe-933f0226fbc2393e39480481",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/slow-cooker-pulled-chicken"
+        },
+        {
+          "id": "recipe-155f46bb02c91c0ec3bc8760",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/sticky-chicken-chorizo-skewers"
+        },
+        {
+          "id": "recipe-ac3b2ba8086a3a63d4f0345e",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/beef-stew/"
+        },
+        {
+          "id": "recipe-708abf206c24a4fb3d32aa61",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/beef-stroganoff/"
+        },
+        {
+          "id": "recipe-f7ab8f16539b2246fa32a378",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/chicken-cacciatore-italian-chicken-stew/"
+        },
+        {
+          "id": "recipe-c54134fae16ca775667a962f",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/lamb-chops-with-rosemary-gravy/"
+        },
+        {
+          "id": "recipe-b188b147b045f689f94c556e",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/oven-baked-pork-chops-with-potatoes/"
+        },
+        {
+          "id": "recipe-cfac852dd9afb53a55cd69a2",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/pork-tenderloin-with-creamy-mustard-sauce/"
+        },
+        {
+          "id": "recipe-b18d1e0767438243f3f687f3",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/slow-cooked-lamb-shanks-in-red-wine-sauce/"
+        },
+        {
+          "id": "recipe-c0e48a72ad73df0e35b49712",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/slow-roast-leg-of-lamb/"
+        }
+      ]
+    },
+    {
+      "id": "recipes-asian",
+      "name": "日韩与东南亚",
+      "category": "日韩与东南亚",
+      "description": "10道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 10,
+      "file": "packs/asian-v1.zip",
+      "bytes": 7079866,
+      "sha256": "a0dcc608bf94961ca9fdb4be25746a9193a7849408ce4934d8572f9afee59bc1",
+      "contents": [
+        {
+          "id": "recipe-c8df301fb358f9007d4e85ce",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/slow-cooker-chicken-tikka-masala"
+        },
+        {
+          "id": "recipe-06457ac37b2e6b4ba62d2a36",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/bibimbap/"
+        },
+        {
+          "id": "recipe-13cee81c2e1027eac2ce4350",
+          "version": 1,
+          "source_url": "https://www.justonecookbook.com/ginger-pork-shogayaki/"
+        },
+        {
+          "id": "recipe-5850c53e2c707d38c6f8f1c2",
+          "version": 1,
+          "source_url": "https://www.justonecookbook.com/gyudon/"
+        },
+        {
+          "id": "recipe-e53f42b9069fd5847fdee525",
+          "version": 1,
+          "source_url": "https://www.justonecookbook.com/mapo-tofu/"
+        },
+        {
+          "id": "recipe-e6e9ecdf2420f0a35a7478e8",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/nasi-goreng-indonesian-fried-rice/"
+        },
+        {
+          "id": "recipe-c2b0a5a61e46fb8f3fec4acb",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/thai-basil-chicken-stir-fry/"
+        },
+        {
+          "id": "recipe-fc9a5fa0a7e30d96c984665f",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/thai-green-curry/"
+        },
+        {
+          "id": "recipe-af1ca3e5418a80a2ec641a8b",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/thai-red-curry-with-chicken/"
+        },
+        {
+          "id": "recipe-38cc9ba7f131d50cc188dd8c",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/vietnamese-caramel-pork/"
+        }
+      ]
+    },
+    {
+      "id": "recipes-seafood",
+      "name": "鱼虾海鲜",
+      "category": "鱼虾海鲜",
+      "description": "12道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 12,
+      "file": "packs/seafood-v1.zip",
+      "bytes": 2452246,
+      "sha256": "e797c2cd93b973f69b689a356ad6ebdcc0de7f867bfd51414ba9d1c072005008",
+      "contents": [
+        {
+          "id": "recipe-991f35a319b97d6214eb3d61",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/garlic-prawns-shrimp/"
+        },
+        {
+          "id": "recipe-abf6865e4718d00ab5514cb7",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/baked-fish-with-lemon-cream-sauce/"
+        },
+        {
+          "id": "recipe-be606767d15b47ca3903676c",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/coconut-fish-curry-rice"
+        },
+        {
+          "id": "recipe-55c5372dc7b00bdf739fdf81",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/coconut-fish-curry"
+        },
+        {
+          "id": "recipe-f9734350147acbfeee1842b3",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/fish-cakes/"
+        },
+        {
+          "id": "recipe-d41aa9205c313cdadcc840f9",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/fish-mappas"
+        },
+        {
+          "id": "recipe-abfcc46d4833915db06f4531",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/fish-pie-four-steps"
+        },
+        {
+          "id": "recipe-50652d0d803b1d0e711b00d5",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/fried-fish-tomato-curry"
+        },
+        {
+          "id": "recipe-37c5adc5483b38186454aa63",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/garlic-butter-salmon-recipe/"
+        },
+        {
+          "id": "recipe-76c0d02be8b3a3e23f6c7fa9",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/honey-garlic-salmon-5-ingredients-15-minutes/"
+        },
+        {
+          "id": "recipe-02855ef5aa08ac5bfb515884",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/prawn-stir-fry/"
+        },
+        {
+          "id": "recipe-6d15e67f085b91b73e43f4e9",
+          "version": 1,
+          "source_url": "https://www.justonecookbook.com/teriyaki-salmon-recipe/"
+        }
+      ]
+    },
+    {
+      "id": "recipes-staples",
+      "name": "米面与面点",
+      "category": "米面与面点",
+      "description": "17道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 17,
+      "file": "packs/staples-v1.zip",
+      "bytes": 5397749,
+      "sha256": "aa63d70ec112c4fe9b1bbe9b54d33c948e12d3807dde17fb872fadf84e8381ba",
+      "contents": [
+        {
+          "id": "recipe-13819c1e455979ad443dfd73",
+          "version": 1,
+          "source_url": "https://www.xiachufang.com/recipe/102135350/"
+        },
+        {
+          "id": "recipe-e20a7060662684ad4d271ed9",
+          "version": 1,
+          "source_url": "https://www.xiachufang.com/recipe/101709665/"
+        },
+        {
+          "id": "recipe-21255ff5f911a24cd3b30d81",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/white-sourdough"
+        },
+        {
+          "id": "recipe-926df48ffbb869fe390779e4",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/beef-pho"
+        },
+        {
+          "id": "recipe-945b70f180d9363a90455c7d",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/chicken-chorizo-jambalaya"
+        },
+        {
+          "id": "recipe-7a6f5565ba8cda3e53702b07",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/chicken-chorizo-one-pan"
+        },
+        {
+          "id": "recipe-44a54c93f23848752fc0564f",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/cajun-chicken-one-pot"
+        },
+        {
+          "id": "recipe-3735ca1e11c7009e4ae9d019",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/best-ever-macaroni-cheese-recipe"
+        },
+        {
+          "id": "recipe-4bee67b3e646f8e4765bea0d",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe"
+        },
+        {
+          "id": "recipe-10a7c0952f977778dfd21cf2",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/egg-fried-rice/"
+        },
+        {
+          "id": "recipe-74dfdd980923741a0f41d98c",
+          "version": 1,
+          "source_url": "https://www.justonecookbook.com/oyakodon/"
+        },
+        {
+          "id": "recipe-43a074900f87b8cfd0d9cf3a",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/chow-mein-ramen-noodles-recipe/"
+        },
+        {
+          "id": "recipe-1e43ecf0cdcc7cf4efb0649f",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/creamy-tomato-risotto"
+        },
+        {
+          "id": "recipe-639b47ca91f7b9de3d9a01e9",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/lo-mein-noodles/"
+        },
+        {
+          "id": "recipe-e3906ace3782a646737a918f",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/potstickers-chinese-pan-fried-dumplings/"
+        },
+        {
+          "id": "recipe-a1fcece6c321e2019a5a11f2",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/singapore-noodles/"
+        },
+        {
+          "id": "recipe-b6aa71be04c4524ed3d8c589",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/spiced-bulgur-pilaf-fish"
+        }
+      ]
+    },
+    {
+      "id": "recipes-vegetables",
+      "name": "蔬菜与豆类",
+      "category": "蔬菜与豆类",
+      "description": "12道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 12,
+      "file": "packs/vegetables-v1.zip",
+      "bytes": 854111,
+      "sha256": "1925bb84bd0f2bcb17639a2e1fdabb03c5f03a6da7552fe0ff24b57b7772799b",
+      "contents": [
+        {
+          "id": "recipe-e292bb9e209a005de6a216de",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/satay-sweet-potato-curry"
+        },
+        {
+          "id": "recipe-08531010f94a6e7e9cb01fca",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/burnt-aubergine-veggie-chilli"
+        },
+        {
+          "id": "recipe-1d66332c3d05787f7c8fecc4",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/coconut-squash-dhansak"
+        },
+        {
+          "id": "recipe-45d798e7bfe5360e60bfd26e",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/simple-mushroom-curry"
+        },
+        {
+          "id": "recipe-b77819569f6c0ed3b506be9a",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/chinese-broccoli-with-oyster-sauce/"
+        },
+        {
+          "id": "recipe-812d300cb3e7b3d4a81b4ed1",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/double-bean-roasted-pepper-chilli"
+        },
+        {
+          "id": "recipe-8bd8727926b126115e820371",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/garlic-butter-roasted-mushrooms/"
+        },
+        {
+          "id": "recipe-990657f9974331c5ceb12a89",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/garlic-sauteed-spinach/"
+        },
+        {
+          "id": "recipe-10377a101d85770a35884b2a",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/indian-chickpeas-poached-eggs"
+        },
+        {
+          "id": "recipe-c658dbb6b537bbe9800ab18f",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/ratatouille/"
+        },
+        {
+          "id": "recipe-fddd47001bb25a7f1daff2fd",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/roasted-cauliflower/"
+        },
+        {
+          "id": "recipe-2ae7b8cdeba9d93f9f3e444e",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/spinach-sweet-potato-lentil-dhal"
+        }
+      ]
+    },
+    {
+      "id": "recipes-salads",
+      "name": "凉菜与沙拉",
+      "category": "凉菜与沙拉",
+      "description": "10道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 10,
+      "file": "packs/salads-v1.zip",
+      "bytes": 645666,
+      "sha256": "caf26249828815f553a50ff7715d1c8fb65505c36ceab0195fa4ded85501bc78",
+      "contents": [
+        {
+          "id": "recipe-19c284f2a8eba2da40b1d988",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/asian-slaw/"
+        },
+        {
+          "id": "recipe-d420398c3747b0a4024f1eea",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/caesar-salad-wonton-cups/"
+        },
+        {
+          "id": "recipe-eb723209ec2f10e1ecbe9b09",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/caprese-salad/"
+        },
+        {
+          "id": "recipe-37a15654144dc214f479b070",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/chickpea-salad/"
+        },
+        {
+          "id": "recipe-858579df302a982cec1184c4",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/coleslaw/"
+        },
+        {
+          "id": "recipe-5d149f7e6f45790902986b49",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/greek-salad/"
+        },
+        {
+          "id": "recipe-5e0dec974fc2e032cde47102",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/pasta-salad/"
+        },
+        {
+          "id": "recipe-eaae2c3c55470f89d96c6184",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/smashed-cucumber-salad/"
+        },
+        {
+          "id": "recipe-0668f5d3fb274350330d9440",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/vietnamese-chicken-salad/"
+        },
+        {
+          "id": "recipe-f74f557b689dbb790a16b4aa",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/vietnamese-rice-paper-rolls-spring-rolls/"
+        }
+      ]
+    },
+    {
+      "id": "recipes-breakfast",
+      "name": "早餐与轻食",
+      "category": "早餐与轻食",
+      "description": "17道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 17,
+      "file": "packs/breakfast-v1.zip",
+      "bytes": 1061999,
+      "sha256": "1584f4a76fcb4dac9497a768ea7ace44455765b39c9405796a71d241d106dec4",
+      "contents": [
+        {
+          "id": "recipe-8ed690fedfe721de86f8229a",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/easy-coronation-chicken"
+        },
+        {
+          "id": "recipe-35888df6580380aa454fbb60",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/pancake-recipe/"
+        },
+        {
+          "id": "recipe-49c9ace0da363f21c5b87b3d",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/bircher-muesli-apple-banana"
+        },
+        {
+          "id": "recipe-b05c0220719d32dc581d1569",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/blueberry-nut-oat-bake"
+        },
+        {
+          "id": "recipe-2733838733af8b6171d64395",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/breakfast-burrito"
+        },
+        {
+          "id": "recipe-94b9dacee15daefa0808478a",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/cinnamon-porridge-banana-berries"
+        },
+        {
+          "id": "recipe-944c6f8acb84607ce52f22e8",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/creamy-mustard-mushrooms-toast"
+        },
+        {
+          "id": "recipe-0053cd01fc29d82a119a568e",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/crunchy-granola-berries-cherries"
+        },
+        {
+          "id": "recipe-0ffdf1090871e2db25937593",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/eggs-benedict/"
+        },
+        {
+          "id": "recipe-304bf73358396ba075546076",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/french-toast/"
+        },
+        {
+          "id": "recipe-9ab324d99a60404af5867783",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/homemade-granola-muesli/"
+        },
+        {
+          "id": "recipe-6042df00c7134777d235d872",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/mexican-beans-avocado-toast"
+        },
+        {
+          "id": "recipe-5a81aa458f48b5df4c85e51c",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/omelette/"
+        },
+        {
+          "id": "recipe-4d6784f60ba7c5ab9e82a89b",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/scrambled-eggs/"
+        },
+        {
+          "id": "recipe-1f49ba0fa65b3c06234929b6",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/shakshuka-baked-eggs/"
+        },
+        {
+          "id": "recipe-3f58e7a96d77776f3c1908b8",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/smoky-beans-toast"
+        },
+        {
+          "id": "recipe-89f670e5e4ea21c2a36ef0a7",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/smoothie-bowl"
+        }
+      ]
+    },
+    {
+      "id": "recipes-soups",
+      "name": "汤羹",
+      "category": "汤羹",
+      "description": "13道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 13,
+      "file": "packs/soups-v1.zip",
+      "bytes": 2385935,
+      "sha256": "ebd0e6483a4fa2cb69906100df305fd46b4de9a7dae56df197abfd91654e1c10",
+      "contents": [
+        {
+          "id": "recipe-1a51aed510fc585fd8df557e",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/chicken-noodle-soup"
+        },
+        {
+          "id": "recipe-3780273efa48ed982c3f4d74",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/carrot-parsnip-soup"
+        },
+        {
+          "id": "recipe-9370fff6091e67fc1f5b0431",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/classic-minestrone-soup"
+        },
+        {
+          "id": "recipe-309d51a8eaa88f6d0167bbcf",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/celery-soup"
+        },
+        {
+          "id": "recipe-31a2336a01c9c58535d7f393",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/roasted-sweet-potato-carrot-soup"
+        },
+        {
+          "id": "recipe-2d98a24f6270f8f0998265af",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/mushroom-soup"
+        },
+        {
+          "id": "recipe-8c45960b3ee1d78bd57516e7",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/asparagus-soup"
+        },
+        {
+          "id": "recipe-cf238e62e2be2e58d2d4c464",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/red-lentil-chickpea-chilli-soup"
+        },
+        {
+          "id": "recipe-f0a451087bd1105655883079",
+          "version": 1,
+          "source_url": "https://www.justonecookbook.com/homemade-miso-soup/"
+        },
+        {
+          "id": "recipe-740f8f964d082a1d45b79d5d",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/chinese-noodle-soup/"
+        },
+        {
+          "id": "recipe-bb32915a42984d2f38d2372c",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/italian-borlotti-bean-pumpkin-farro-soup"
+        },
+        {
+          "id": "recipe-ff800c41c45cf43319d4a18d",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/mexican-bean-soup-guacamole"
+        },
+        {
+          "id": "recipe-6b08bbc948d643db1f1c09d3",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/simple-fish-stew"
+        }
+      ]
+    },
+    {
+      "id": "recipes-desserts",
+      "name": "烘焙与甜点",
+      "category": "烘焙与甜点",
+      "description": "13道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 13,
+      "file": "packs/desserts-v1.zip",
+      "bytes": 1223039,
+      "sha256": "4fdf77d2abdf88d6e9808344888b8310d843a3a10c0fad076a849de9f9544d45",
+      "contents": [
+        {
+          "id": "recipe-75a9dd13592ba07ee3e50968",
+          "version": 1,
+          "source_url": "https://www.xiachufang.com/recipe/101825330/"
+        },
+        {
+          "id": "recipe-8b46dc6856059303732fc0e4",
+          "version": 1,
+          "source_url": "https://www.xiachufang.com/recipe/100398208/"
+        },
+        {
+          "id": "recipe-6f279186bf6be0c71aa3ce73",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/naughty-chocolate-fudge-cake"
+        },
+        {
+          "id": "recipe-2ab94836cae0339e77fa6d99",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/lemon-drizzle-cake"
+        },
+        {
+          "id": "recipe-cd85a334925f23ea4482c594",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/cherry-bakewell-cake"
+        },
+        {
+          "id": "recipe-0f245d3acca8db0911326342",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/lemon-layer-cake-with-soft-cheese-icing"
+        },
+        {
+          "id": "recipe-3189e6844c88e986cb6b3c97",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/next-level-carrot-cake"
+        },
+        {
+          "id": "recipe-b1526c3a1c6e8b12b67e3915",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/lemon-drizzle-sponge-pudding"
+        },
+        {
+          "id": "recipe-9b1829497b01a5f935b056ec",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/chocolate-traybake"
+        },
+        {
+          "id": "recipe-0647ab64d7fb39f64989f4e6",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/classic-cheese-scones"
+        },
+        {
+          "id": "recipe-0dabce14e9f9a5d6cc74d64f",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/double-chocolate-loaf-cake"
+        },
+        {
+          "id": "recipe-e8ff879c103d21321bd9f54a",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/ginger-and-white-chocolate-cake"
+        },
+        {
+          "id": "recipe-81dd7a12eefe69910602927d",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/salted-caramel-brownies"
+        }
+      ]
+    },
+    {
+      "id": "recipes-sauces",
+      "name": "酱料与发酵",
+      "category": "酱料与发酵",
+      "description": "9道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 9,
+      "file": "packs/sauces-v1.zip",
+      "bytes": 1949503,
+      "sha256": "bfe6bb309bd8967b3efb558da5b012a2a9a772f4b2bb1c379e4e2db872c52495",
+      "contents": [
+        {
+          "id": "recipe-d3b3984e9193c0b40d55dc9b",
+          "version": 1,
+          "source_url": "https://www.xiachufang.com/recipe/100543535/"
+        },
+        {
+          "id": "recipe-265633239d595440aff49f5f",
+          "version": 1,
+          "source_url": "https://www.xiachufang.com/recipe/100101004/"
+        },
+        {
+          "id": "recipe-d844f15315fa5c2d01b76f2c",
+          "version": 1,
+          "source_url": "https://www.xiachufang.com/recipe/1045822/"
+        },
+        {
+          "id": "recipe-4d8da336a43349858526be05",
+          "version": 1,
+          "source_url": "https://www.xiachufang.com/recipe/102285033/"
+        },
+        {
+          "id": "recipe-a690a36afce8fc053008b154",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/hummus/"
+        },
+        {
+          "id": "recipe-893641bd2b0831472d5ec248",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/pesto/"
+        },
+        {
+          "id": "recipe-f67b76217b9da31b87ae247b",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/salsa-super-easy-restaurant-style/"
+        },
+        {
+          "id": "recipe-f6887a6520519a7a4c8c9190",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/slow-cooker-bio-yogurt"
+        },
+        {
+          "id": "recipe-4867f60634014e52c2520b07",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/spicy-sardine-dip"
+        }
+      ]
+    },
+    {
+      "id": "recipes-snacks",
+      "name": "小食",
+      "category": "小食",
+      "description": "2道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 2,
+      "file": "packs/snacks-v1.zip",
+      "bytes": 100880,
+      "sha256": "3511b70140a746b91d259ba81a7724b17b80cf45c2f1bc20d0c828ddfcaf76df",
+      "contents": [
+        {
+          "id": "recipe-dd41493fa98d89f082b2247f",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/garlic-bread/"
+        },
+        {
+          "id": "recipe-4370da0b861824d88953348a",
+          "version": 1,
+          "source_url": "https://www.recipetineats.com/spring-rolls/"
+        }
+      ]
+    },
+    {
+      "id": "recipes-drinks",
+      "name": "饮品",
+      "category": "饮品",
+      "description": "8道带图配方，包含完整材料分组、制作步骤及原作来源。下载后在味屿核对并加入家庭配方库。",
+      "version": 1,
+      "recipe_count": 8,
+      "file": "packs/drinks-v1.zip",
+      "bytes": 334387,
+      "sha256": "8676b157a8ae3ddf35d13b6b9f9b5500d2aebabf1632e314187353ed63cd28ce",
+      "contents": [
+        {
+          "id": "recipe-98709d76892e7361882eaccd",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/blueberry-smoothie-recipe"
+        },
+        {
+          "id": "recipe-6efb0caf52d717b048dcf90b",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/breakfast-super-shake"
+        },
+        {
+          "id": "recipe-f0347aae5ca438d52c72e520",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/clean-green-smoothie"
+        },
+        {
+          "id": "recipe-ab86745e8c71b89b78252cc1",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/iced-coffee"
+        },
+        {
+          "id": "recipe-b93d48ebefdc872fa17dfaef",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/kale-smoothie"
+        },
+        {
+          "id": "recipe-79ab403ad4d49005bbaa2d1b",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/kiwi-fruit-smoothie"
+        },
+        {
+          "id": "recipe-204959b909c35ec0852a8ea7",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/peanut-butter-smoothie"
+        },
+        {
+          "id": "recipe-99a15aaa5b634afd7f203ac4",
+          "version": 1,
+          "source_url": "https://www.bbcgoodfood.com/recipes/strawberry-smoothie"
+        }
+      ]
+    }
+  ]
+}
